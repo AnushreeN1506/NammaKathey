@@ -1,0 +1,1308 @@
+{
+  "districts": [
+    {
+      "id": "belagavi",
+      "name": "Belagavi",
+      "heroes": [
+        {
+          "id": "kittur_chennamma",
+          "name": "Kittur Chennamma",
+          "era": "1778–1829",
+          "role": "Freedom Fighter",
+
+          "summary": "Brave queen of Kittur who fought against British rule and became one of India’s earliest women freedom fighters.",
+          "values": [
+            "Courage",
+            "Leadership",
+            "Patriotism",
+            "Justice"
+          ],
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Birth and Childhood",
+              "text": "Long ago in the kingdom of Kittur, a baby girl named Chennamma was born into a respected family. Even as a small child, she showed unusual courage and curiosity. While other children spent time playing simple games, Chennamma loved learning horse riding, sword fighting, and archery. Her parents noticed her fearless nature and encouraged her to become strong and wise. Teachers and warriors who trained her were surprised by her speed and confidence. She also learned about justice, kindness, and leadership from village elders. The people around her often said that the young girl carried the spirit of a lioness inside her heart. Nobody knew then that she would later become one of Karnataka’s greatest queens and inspire generations of freedom fighters."
+            },
+            {
+              "pageNumber": 2,
+              "pageTitle": "Becoming the Queen of Kittur",
+              "text": "As Chennamma grew older, her bravery and intelligence became famous across nearby regions. She later married the ruler of Kittur and became the queen of the kingdom. Chennamma worked hard to improve the lives of her people. Farmers were supported during difficult seasons, roads and markets were improved, and trade became stronger under her leadership. The queen listened carefully to the problems of ordinary citizens and always tried to solve them fairly. Children, women, and elders respected her deeply because she treated everyone equally. Under her rule, Kittur became peaceful and prosperous. However, far away, the British East India Company was slowly taking control of many Indian kingdoms, and their greed for power would soon threaten Kittur too."
+            },
+            {
+              "pageNumber": 3,
+              "pageTitle": "The British Threat",
+              "text": "After the death of her husband, the British tried to capture Kittur using unfair rules. They refused to recognize the adopted son of the royal family as the next ruler because they wanted control over the kingdom. Queen Chennamma clearly understood that the British only cared about wealth and power. Instead of surrendering in fear, she decided to protect her land and people. She gathered brave soldiers and prepared the fort for battle. The queen encouraged her people to stand united against foreign rule. Everyone in Kittur admired her courage because she fearlessly challenged one of the most powerful forces in the world. Her determination gave hope and confidence to every soldier and citizen inside the kingdom."
+            },
+            {
+              "pageNumber": 4,
+              "pageTitle": "The Battle of Kittur",
+              "text": "The great battle between Kittur and the British finally began in 1824. Cannons roared outside the fort walls while soldiers fought bravely to defend their homeland. Queen Chennamma personally guided her army and inspired everyone with her fearless leadership. The British were shocked to see such strong resistance from a small kingdom. Many warriors of Kittur fought with incredible courage because they trusted their queen completely. Even during dangerous moments, Chennamma remained calm and determined. Although the British army was larger and stronger, the people of Kittur refused to give up easily. The battle became a powerful symbol of resistance against foreign rule and showed that Indians would fight bravely for their freedom and dignity."
+            },
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Courage",
+              "text": "Although Queen Chennamma was eventually captured by the British, they could never break her spirit. Even in prison, she continued to speak proudly about freedom and justice. After her death, stories about her bravery spread across Karnataka and inspired future freedom fighters. Villagers sang songs about her courage, and children grew up hearing tales of the fearless queen of Kittur. Today, statues and memorials honor her sacrifice and leadership. Historians consider her one of the earliest Indian queens to openly fight British rule. Her life teaches children that true courage means standing up against injustice, protecting others, and never giving up during difficult times. Kittur Chennamma continues to inspire millions of people even today."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "Which kingdom was ruled by Kittur Chennamma?",
+              "options": [
+                "Mysuru",
+                "Kittur",
+                "Bijapur",
+                "Hampi"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "What skills did Chennamma learn during childhood?",
+              "options": [
+                "Painting and dancing",
+                "Horse riding and sword fighting",
+                "Only music",
+                "Cooking"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Why did the British want to capture Kittur?",
+              "options": [
+                "To build schools",
+                "To help farmers",
+                "To gain power and wealth",
+                "To start trade fairs"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "question": "In which year did the Battle of Kittur happen?",
+              "options": [
+                "1757",
+                "1824",
+                "1857",
+                "1947"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "What does Kittur Chennamma symbolize today?",
+              "options": [
+                "Fear and silence",
+                "Luxury and wealth",
+                "Bravery and patriotism",
+                "Science and technology"
+              ],
+              "correctIndex": 2
+            }
+          ]
+        }
+      ]
+    }
+  ,
+    {
+      "id": "mysuru",
+      "name": "Mysuru",
+      "heroes": [
+        {
+          "id": "tipu_sultan",
+          "name": "Tipu Sultan",
+          "era": "1751–1799",
+          "role": "King of Mysore",
+
+          "summary": "Tipu Sultan was a brave ruler of Mysore known for fighting against British rule and protecting his kingdom with courage.",
+
+          "values": [
+            "Bravery",
+            "Leadership",
+            "Patriotism",
+            "Sacrifice"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life",
+              "text": "Tipu Sultan was born in 1751 in the Kingdom of Mysore, located in present-day Karnataka. He was the son of the famous ruler Hyder Ali, who was known for his military strength and leadership. From a very young age, Tipu Sultan showed great intelligence, discipline, and bravery. Unlike many royal children who lived a comfortable life inside palaces, Tipu was trained to become a strong warrior and wise leader. He learned horse riding, sword fighting, archery, military strategy, and administration from experienced teachers and soldiers. He also studied different languages, mathematics, and politics so that he could understand how kingdoms were governed. Hyder Ali believed that a future ruler must protect people and defend justice, so he trained Tipu carefully for leadership. As he grew older, Tipu Sultan became fearless and confident in battle situations. He often accompanied his father during military campaigns and observed how armies worked. The people of Mysore admired the young prince because of his courage and sharp thinking. Even during childhood, many believed that Tipu Sultan would one day become one of the strongest rulers in Indian history."
+            },
+            {
+              "pageNumber": 2,
+              "pageTitle": "The Tiger of Mysore",
+              "text": "As Tipu Sultan grew into adulthood, he became famous for his bravery and military talent. Because of his fearless fighting spirit, people began calling him the “Tiger of Mysore.” He strongly believed that freedom and self-respect were more important than wealth or comfort. Tipu Sultan wanted to protect Mysore from foreign powers, especially the British East India Company, which was trying to capture many Indian kingdoms. He modernized his army by introducing advanced weapons, rockets, and better military training. His soldiers respected him deeply because he personally led armies during dangerous battles instead of hiding safely inside palaces. Tipu Sultan also cared about improving trade, agriculture, and technology in his kingdom. Under his leadership, Mysore became one of the strongest and most organized kingdoms in India. The British were worried about his growing power because he refused to surrender to them. Even enemies admired his courage and intelligence. Stories about his bravery spread across India, inspiring many people to stand against injustice and foreign control. Tipu Sultan became a symbol of resistance, pride, and determination for the people of Mysore and future generations."
+            },
+            {
+              "pageNumber": 3,
+              "pageTitle": "Protecting Mysore",
+              "text": "Tipu Sultan worked hard to make Mysore a strong and successful kingdom. He understood that a kingdom could only survive if its army, economy, and people were strong together. He improved roads, trade centers, and farming systems to help ordinary citizens live better lives. Farmers received support during difficult times, and trade with nearby regions increased under his rule. Tipu Sultan also encouraged the development of industries such as silk production, weapon manufacturing, and shipbuilding. One of his greatest achievements was strengthening the Mysore army with modern technology. He introduced powerful rockets that were later studied by European armies because of their effectiveness in battle. Soldiers were trained with discipline and loyalty, making Mysore one of the most feared kingdoms in South India. Tipu Sultan believed that rulers should protect their people instead of thinking only about power. He spent much of his time planning how to defend Mysore from British attacks. The people respected him because he worked tirelessly for the safety and growth of the kingdom. His leadership showed how intelligence, courage, and planning could strengthen a nation during difficult times."
+            },
+            {
+              "pageNumber": 4,
+              "pageTitle": "Battle Against the British",
+              "text": "The British East India Company wanted to control Mysore because it was rich, powerful, and strategically important. However, Tipu Sultan refused to surrender his kingdom to foreign rule. This led to several fierce wars between Mysore and the British. Tipu Sultan fought bravely alongside his soldiers and used clever military strategies during battles. He built strong forts, protected important regions, and surprised enemies with fast attacks. The British realized that defeating Mysore would not be easy because Tipu Sultan was both intelligent and fearless. Many battles were fought with heavy losses on both sides, but Tipu never gave up. He believed that dying with honor was better than living under foreign control. Even during difficult situations, he inspired his soldiers to fight courageously for their homeland. The people of Mysore stood beside him because they trusted his leadership completely. Although the British eventually became stronger with support from allies, Tipu Sultan continued resisting them until the very end. His determination and patriotism made him one of India’s earliest rulers to strongly challenge British expansion and defend the independence of his kingdom."
+            },
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy",
+              "text": "In 1799, Tipu Sultan died while defending the fort of Srirangapatna during a battle against the British. Even in his final moments, he refused to surrender and fought bravely to protect his kingdom. His death marked the end of a powerful chapter in Mysore’s history, but his courage continued to inspire people across India. Tipu Sultan became remembered as a ruler who valued freedom, dignity, and self-respect above everything else. Historians recognize him as one of the strongest opponents of British rule during the early colonial period. People admired not only his bravery in battle but also his efforts to modernize Mysore and improve the lives of citizens. Songs, stories, and historical accounts continue to celebrate his leadership and sacrifice. Monuments and museums today preserve the memory of his achievements and struggles. Children learn about Tipu Sultan as a symbol of patriotism and resistance against injustice. His famous belief that “it is better to live one day as a tiger than a thousand years as a sheep” still inspires people to remain fearless and protect what is right. Tipu Sultan’s legacy remains an important part of Karnataka’s history and pride."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which kingdom did Tipu Sultan rule?",
+              "options": [
+                "Mysore",
+                "Delhi",
+                "Bijapur",
+                "Kittur"
+              ],
+              "correctIndex": 0
+            },
+            {
+              "question": "What was Tipu Sultan famously called?",
+              "options": [
+                "Lion of India",
+                "Tiger of Mysore",
+                "King of Karnataka",
+                "Warrior Prince"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "Who did Tipu Sultan fight against?",
+              "options": [
+                "Portuguese",
+                "British",
+                "French",
+                "Mughals"
+              ],
+              "correctIndex": 1
+            },
+            {
+              "question": "What qualities is Tipu Sultan remembered for?",
+              "options": [
+                "Fear and silence",
+                "Luxury and wealth",
+                "Bravery and sacrifice",
+                "Painting and music"
+              ],
+              "correctIndex": 2
+            },
+            {
+              "question": "Which state is associated with Tipu Sultan?",
+              "options": [
+                "Kerala",
+                "Tamil Nadu",
+                "Karnataka",
+                "Goa"
+              ],
+              "correctIndex": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bengaluru",
+      "name": "Bengaluru",
+      "heroes": [
+        {
+          "id": "kempegowda",
+          "name": "Kempegowda",
+          "era": "1513–1569",
+          "role": "Founder of Bengaluru",
+
+          "summary": "Kempegowda was the visionary ruler who founded Bengaluru and transformed it into an organized and prosperous city.",
+
+          "values": [
+            "Vision",
+            "Leadership",
+            "Planning",
+            "Wisdom"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Kempegowda",
+              "text": "Kempegowda was born into a respected family in the region that later became Bengaluru. From childhood, he was known for his intelligence, discipline, and leadership qualities. He learned administration, warfare, and governance from experienced teachers and elders. Unlike many rulers who focused only on military power, Kempegowda believed that a successful kingdom needed proper planning, trade, and peaceful communities. He spent time understanding the needs of farmers, traders, and ordinary citizens. His interest in city planning and development made him different from many rulers of his time. The people around him admired his wisdom and calm decision-making abilities. Kempegowda dreamed of building a city that would become prosperous, organized, and culturally rich. As he grew older, his vision became stronger, and he began planning for the future of the region. Nobody imagined then that his ideas would eventually lead to the creation of one of India’s most famous cities."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Founding Bengaluru",
+              "text": "Kempegowda is most famous for founding the city of Bengaluru in the sixteenth century. At that time, the area contained small villages surrounded by forests and farmland. Kempegowda recognized the region’s potential because of its pleasant climate, fertile land, and strategic location. He carefully planned the city with roads, marketplaces, lakes, temples, and fortifications. Unlike many rulers who expanded only through war, Kempegowda focused on building infrastructure that would help people live peacefully and successfully. Markets encouraged trade, while lakes helped farmers and supported agriculture during dry seasons. Temples and cultural centers strengthened community life and traditions. Kempegowda also ensured that the city remained organized and protected from outside threats. The people respected him because he thought about the future and worked hard to improve everyday life. His vision and planning laid the foundation for Bengaluru’s growth into one of Karnataka’s most important and admired cities."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "A Visionary Leader",
+              "text": "Kempegowda was not only a ruler but also a visionary leader who believed in balanced development. He understood that strong leadership required wisdom, fairness, and long-term planning. Instead of focusing only on battles and military victories, he concentrated on improving administration, trade, and public welfare. He encouraged farmers, merchants, artisans, and workers to contribute to the growth of the city. Kempegowda believed that every citizen played an important role in building a successful kingdom. Under his leadership, Bengaluru became known for peace, prosperity, and organized governance. He also built watch towers around the city to mark its boundaries and ensure security. These towers later became important historical symbols of Bengaluru’s early development. People admired Kempegowda because he cared deeply about both economic growth and social harmony. His leadership style showed how planning, discipline, and compassion could help a city grow into a thriving center of culture and progress."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Building Culture and Community",
+              "text": "Kempegowda believed that a great city should not only be economically strong but also culturally rich and united. He supported temples, festivals, markets, and public gatherings that brought people together. These cultural activities strengthened relationships among citizens and created a sense of belonging within the community. Bengaluru slowly became a place where people from different backgrounds could live peacefully and work together. Kempegowda encouraged honesty, discipline, and respect among his people. He wanted the city to become a center of learning, trade, and tradition. Lakes and gardens built during his rule improved the beauty of the region and provided resources for citizens. His planning reflected deep care for future generations because he understood the importance of sustainability and organization. Even today, many historical structures and landmarks in Bengaluru remind people of Kempegowda’s contributions. His efforts helped create a city that balanced growth, culture, and public welfare successfully."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Kempegowda",
+              "text": "Today, Kempegowda is remembered as the founder and visionary builder of Bengaluru. The city he established has grown into one of India’s largest and most important technology and cultural centers. Although modern Bengaluru is very different from the small city he first planned, his ideas about organization, development, and public welfare continue to inspire people. Statues, memorials, roads, and even the Bengaluru international airport honor his legacy. Historians admire Kempegowda because he focused on long-term growth instead of temporary success. His leadership teaches future generations the importance of planning, responsibility, and service to society. Children learn about him as a ruler who transformed a simple region into a thriving city through intelligence and determination. Kempegowda’s story reminds people that true leaders think beyond their own time and work for the benefit of future generations. His contributions remain an important source of pride for Karnataka and Bengaluru even today."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Who founded Bengaluru?",
+              "options": [
+                "Tipu Sultan",
+                "Kempegowda",
+                "Hyder Ali",
+                "Kittur Chennamma"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What did Kempegowda build to help farmers?",
+              "options": [
+                "Palaces",
+                "Lakes",
+                "Factories",
+                "Ports"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What quality is Kempegowda most remembered for?",
+              "options": [
+                "Fear",
+                "Planning and vision",
+                "Luxury",
+                "Music"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "Why were watch towers built around Bengaluru?",
+              "options": [
+                "Decoration",
+                "Trade",
+                "Security and boundaries",
+                "Entertainment"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What does Kempegowda symbolize today?",
+              "options": [
+                "Leadership and vision",
+                "War and destruction",
+                "Fear and silence",
+                "Foreign rule"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chitradurga",
+      "name": "Chitradurga",
+      "heroes": [
+        {
+          "id": "onake_obavva",
+          "name": "Onake Obavva",
+          "era": "18th Century",
+          "role": "Warrior Heroine",
+
+          "summary": "Onake Obavva was a brave woman who defended Chitradurga Fort against enemy soldiers using only a wooden pestle called an onake.",
+
+          "values": [
+            "Bravery",
+            "Sacrifice",
+            "Patriotism",
+            "Fearlessness"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Life in Chitradurga Fort",
+              "text": "Long ago, Chitradurga Fort was one of the strongest forts in Karnataka. Huge stone walls surrounded the kingdom and protected the people from enemies. Inside the fort lived brave soldiers, workers, traders, and families who supported the kingdom every day. Among them was a courageous woman named Onake Obavva. She lived a simple life with her husband, who served as a guard at the fort. Obavva was hardworking, disciplined, and deeply loyal to her land. She spent her days helping her family and supporting the community inside the fort. Although she was not a soldier, she possessed great courage and strength. The people of Chitradurga respected the women of the kingdom because they actively supported the safety and welfare of their homeland. Nobody knew then that Onake Obavva would soon become one of Karnataka’s greatest heroines through a single act of extraordinary bravery and determination."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "The Secret Passage",
+              "text": "During the eighteenth century, enemy forces attacked Chitradurga Fort several times because they wanted control over the kingdom. The fort was famous for its strong defenses, making it difficult for enemies to enter directly. One day, while Obavva was near a narrow hidden passage in the fort wall, she noticed suspicious movement outside. Enemy soldiers had discovered the small opening and were secretly trying to enter the fort one by one. At that moment, very few guards were nearby, and the kingdom was in great danger. Obavva quickly understood that if the enemies entered the fort, many innocent people could lose their lives. She had no weapons or army to help her immediately. However, instead of becoming afraid, she decided to protect the kingdom herself. Nearby, she found a wooden pestle called an onake, which was commonly used in homes for grinding grains. That simple household tool soon became a symbol of courage."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "The Courageous Battle",
+              "text": "As enemy soldiers slowly entered through the narrow passage, Onake Obavva stood silently near the opening with the wooden pestle in her hands. One by one, soldiers attempted to climb through the small gap in the wall. Obavva fearlessly attacked each soldier before they could enter the fort completely. She acted with incredible courage and determination despite facing great danger alone. Her quick thinking prevented the enemies from warning the others outside. For a long time, she continued defending the passage without allowing anyone to enter the kingdom. Eventually, other guards noticed what was happening and rushed to help protect the fort. The soldiers and citizens were amazed by Obavva’s bravery because she had defended the entire kingdom using only courage and a simple household tool. Her fearless actions became a legendary story throughout Karnataka and showed that ordinary people can achieve extraordinary things when they protect their homeland and people."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Protector of Chitradurga",
+              "text": "After the attack was stopped, the people of Chitradurga praised Onake Obavva for saving the fort and protecting countless lives. Her courage inspired soldiers, leaders, and ordinary citizens alike. Even experienced warriors admired her bravery because she faced danger without hesitation. The story of her heroic actions spread quickly across nearby kingdoms. Obavva became a symbol of patriotism, sacrifice, and fearless leadership. Although she was not part of the royal family or army, her determination protected the kingdom during a critical moment. Her story reminded people that courage does not depend on wealth, power, or position. True bravery comes from standing up for what is right during difficult times. The rulers of Chitradurga honored her sacrifice and ensured that future generations remembered her heroic act. Her life became a powerful example showing that even a single courageous person can change the course of history and protect an entire community."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Onake Obavva",
+              "text": "Today, Onake Obavva is remembered as one of Karnataka’s greatest heroines. Her bravery continues to inspire children, students, soldiers, and citizens across the state. Statues, memorials, and stories honor her sacrifice and courage. Schools teach her story so that future generations understand the importance of patriotism and selfless action. Chitradurga Fort remains an important historical site where visitors learn about her heroic defense of the kingdom. The narrow opening through which enemy soldiers tried to enter is now famously known as Onake Obavvana Kindi. Her story teaches people that courage can come from ordinary individuals during extraordinary moments. She showed that determination and love for one’s homeland are stronger than fear. Even centuries later, people proudly remember how one brave woman protected an entire fort using only a wooden pestle and her fearless spirit. Onake Obavva’s legacy remains a powerful symbol of bravery and Karnataka’s cultural pride."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which fort did Onake Obavva protect?",
+              "options": [
+                "Gol Gumbaz",
+                "Mysore Fort",
+                "Chitradurga Fort",
+                "Red Fort"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What weapon did Onake Obavva use?",
+              "options": [
+                "Sword",
+                "Bow",
+                "Wooden pestle",
+                "Spear"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What is an onake?",
+              "options": [
+                "A shield",
+                "A pestle used for grinding",
+                "A fort gate",
+                "A spear"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "Why is Onake Obavva remembered today?",
+              "options": [
+                "For building temples",
+                "For protecting Chitradurga Fort",
+                "For becoming a queen",
+                "For trade and business"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What does Onake Obavva symbolize?",
+              "options": [
+                "Fear and silence",
+                "Luxury and wealth",
+                "Bravery and sacrifice",
+                "Science and technology"
+              ],
+              "correctIndex": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gadag",
+      "name": "Gadag",
+      "heroes": [
+        {
+          "id": "kumaravyasa",
+          "name": "Kumaravyasa",
+          "era": "15th Century",
+          "role": "Kannada Poet",
+
+          "summary": "Kumaravyasa was one of Karnataka’s greatest poets who beautifully narrated the Mahabharata in Kannada and enriched Kannada literature.",
+
+          "values": [
+            "Wisdom",
+            "Creativity",
+            "Knowledge",
+            "Culture"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Kumaravyasa",
+              "text": "Kumaravyasa was born in Karnataka during the fifteenth century and became one of the most respected poets in Kannada literature. From childhood, he showed great interest in storytelling, language, and learning. He listened carefully to stories from epics, scriptures, and village traditions, which helped him develop deep knowledge and imagination. Teachers and scholars admired his intelligence and love for literature. Unlike many people of his time, Kumaravyasa wanted to make knowledge accessible to ordinary citizens in their own language. He believed that literature should inspire wisdom, morality, and devotion among people. As he grew older, he studied poetry, philosophy, and ancient Indian epics in great detail. His ability to express complex ideas in simple and beautiful Kannada made him unique among scholars. The people around him recognized his talent early and believed that he would one day contribute something extraordinary to Kannada culture and literary history."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Writing the Mahabharata",
+              "text": "Kumaravyasa became famous for writing the Mahabharata in Kannada, which later became known as Kumaravyasa Bharata. At that time, many ordinary people could not understand Sanskrit texts easily. Kumaravyasa wanted everyone to enjoy and learn from the great epic, so he narrated it in rich and expressive Kannada language. His storytelling style was emotional, poetic, and easy to understand, making the Mahabharata more accessible to common people. He carefully described important characters, battles, moral lessons, and human emotions in ways that deeply touched readers and listeners. Villagers, scholars, and children enjoyed hearing his verses because they combined wisdom with entertainment. Kumaravyasa’s writing not only preserved the epic’s greatness but also strengthened Kannada literature significantly. His work became one of the most celebrated literary achievements in Karnataka. Through his poetry, he showed that language and storytelling could unite people and preserve cultural traditions for future generations."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Master of Kannada Literature",
+              "text": "Kumaravyasa’s literary talent earned him great respect across Karnataka. Scholars admired his ability to blend powerful storytelling with beautiful poetry and moral teachings. His version of the Mahabharata was not simply a translation; it carried unique Kannada style, emotions, and creativity. He used simple yet meaningful language so that even ordinary villagers could understand deep philosophical ideas. This made his work highly popular among people from different backgrounds. Kumaravyasa believed that literature should guide society toward wisdom, honesty, and righteousness. His poems often highlighted human values such as courage, loyalty, justice, and devotion. Readers felt connected to the characters because of the emotional depth in his writing. His work also inspired many future poets and writers in Karnataka to contribute to Kannada literature. Over time, Kumaravyasa became known not only as a poet but also as a cultural icon who strengthened Kannada identity through literature and storytelling."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Influence on Society",
+              "text": "Kumaravyasa’s writings had a strong influence on society because they reached people beyond royal courts and scholarly communities. His stories were recited in villages, temples, gatherings, and homes across Karnataka. Through his poetry, people learned important lessons about morality, leadership, family values, and human behavior. Many listeners became inspired by the courage and wisdom of Mahabharata characters as described in his verses. His work also helped preserve Kannada language and cultural traditions during changing political and social times. Teachers and storytellers used his poems to educate children and communities about ethics and spirituality. Kumaravyasa believed that literature should not remain limited to a few educated people but should benefit society as a whole. His contributions strengthened the connection between language, culture, and identity in Karnataka. Even centuries later, his influence continues to shape Kannada literature, storytelling traditions, and appreciation for classical poetry."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Kumaravyasa",
+              "text": "Today, Kumaravyasa is remembered as one of the greatest literary legends of Karnataka. His Kannada Mahabharata remains an important masterpiece studied by scholars, students, and literature lovers. Historians admire his contribution because he made complex epics understandable and meaningful for ordinary people. His work continues to inspire writers, poets, teachers, and storytellers across generations. Schools and universities teach his poetry as an important part of Kannada literary heritage. Cultural programs and literary events often celebrate his achievements and contributions to language and storytelling. Kumaravyasa showed that literature has the power to educate, inspire, and unite society. His life teaches future generations the importance of preserving language, culture, and knowledge through creative expression. Even today, his writings continue to strengthen pride in Kannada identity and heritage. Kumaravyasa’s legacy remains a shining example of wisdom, creativity, and dedication to literature in Karnataka’s history."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Who wrote the Kannada version of the Mahabharata?",
+              "options": [
+                "Kumaravyasa",
+                "Kempegowda",
+                "Tipu Sultan",
+                "Onake Obavva"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What is Kumaravyasa famous for?",
+              "options": [
+                "Building forts",
+                "Writing poetry",
+                "Leading armies",
+                "Trade and business"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "Why did Kumaravyasa write in Kannada?",
+              "options": [
+                "To help ordinary people understand epics",
+                "To build temples",
+                "To fight wars",
+                "To become king"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What values did Kumaravyasa promote through literature?",
+              "options": [
+                "Fear and silence",
+                "Luxury and wealth",
+                "Wisdom and morality",
+                "War and destruction"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What does Kumaravyasa symbolize today?",
+              "options": [
+                "Literature and culture",
+                "Foreign rule",
+                "Military power",
+                "Trade and politics"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kodagu",
+      "name": "Kodagu",
+      "heroes": [
+        {
+          "id": "field_marshal_cariappa",
+          "name": "Field Marshal K. M. Cariappa",
+          "era": "1899–1993",
+          "role": "First Commander-in-Chief of the Indian Army",
+
+          "summary": "Field Marshal K. M. Cariappa was one of India’s greatest military leaders and the first Indian Commander-in-Chief of the Indian Army.",
+
+          "values": [
+            "Discipline",
+            "Leadership",
+            "Patriotism",
+            "Service"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life in Kodagu",
+              "text": "Kodandera Madappa Cariappa was born in 1899 in Kodagu, a beautiful region of Karnataka known for its natural beauty and brave people. From childhood, Cariappa showed discipline, confidence, and a strong sense of responsibility. His family valued education, honesty, and service to society, which greatly influenced his character. Growing up in Kodagu also exposed him to stories of courage and patriotism that inspired him deeply. Cariappa studied hard and developed interest in leadership and military service from a young age. Teachers admired his determination and disciplined nature. Unlike many children who feared strict training, Cariappa enjoyed challenges and believed that discipline could help a person achieve greatness. As he grew older, he dreamed of serving the country and protecting people through military leadership. Nobody knew then that the young boy from Kodagu would later become one of India’s most respected army officers and a symbol of patriotism for the nation."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Joining the Army",
+              "text": "Cariappa joined the British Indian Army during a time when very few Indians held important positions in the military. The journey was difficult because Indian officers often faced discrimination and limited opportunities. However, Cariappa worked with discipline, dedication, and determination to prove his abilities. He trained rigorously and became respected for his leadership, bravery, and strategic thinking. Fellow soldiers admired his calm nature and strong commitment to duty. During military service, he learned the importance of teamwork, sacrifice, and responsibility. Cariappa strongly believed that soldiers must serve the nation with honesty and loyalty above personal interests. His hard work and excellent performance helped him rise steadily through the ranks of the army. Over time, he became known as a disciplined officer who inspired confidence among soldiers. His achievements encouraged many Indians to dream of serving the country through military leadership and national service."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Leadership After Independence",
+              "text": "After India gained independence in 1947, Cariappa played a very important role in shaping the Indian Army. He became the first Indian Commander-in-Chief of the Indian Army, a historic achievement for the country. At that time, India was facing many challenges, including conflicts, reorganization, and the need to strengthen national security. Cariappa worked tirelessly to build a disciplined, professional, and united army. He believed that the army should remain dedicated to protecting the nation above politics or personal interests. Under his leadership, soldiers were encouraged to maintain courage, discipline, and loyalty to India. Cariappa also promoted unity among people from different regions, religions, and languages within the armed forces. His leadership helped build confidence in the newly independent nation. Soldiers deeply respected him because he treated everyone fairly and always placed the nation’s welfare first. His contributions became an important foundation for the modern Indian Army."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "A Symbol of Discipline",
+              "text": "Field Marshal Cariappa became widely respected across India because of his strong discipline and patriotic values. He believed that discipline was essential not only for soldiers but also for citizens who wanted to contribute positively to society. Cariappa inspired young people to develop honesty, responsibility, and dedication in their lives. Even after retiring from active military service, he continued encouraging patriotism and national unity through speeches and public activities. His simple lifestyle and humble attitude made him admired by people from all backgrounds. Cariappa never allowed fame or power to change his commitment to service and integrity. He strongly believed that true leadership comes from sacrifice, fairness, and responsibility. Many army officers considered him a role model because of his professionalism and courage. Through his life and actions, Cariappa showed that serving the nation with discipline and loyalty is one of the highest forms of duty and honor."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Field Marshal Cariappa",
+              "text": "Today, Field Marshal K. M. Cariappa is remembered as one of India’s greatest military leaders and a proud son of Karnataka. His contributions to the Indian Army continue to inspire soldiers, students, and citizens across the country. Schools, military institutions, and public memorials honor his achievements and service to the nation. Historians admire him because he helped build a strong and professional Indian Army during a critical period in India’s history. His life teaches future generations the importance of discipline, patriotism, and selfless service. Children learn about Cariappa as a symbol of courage, leadership, and national pride. Even today, army officers study his leadership style and values as examples of true military excellence. The people of Kodagu remain especially proud of his achievements and continue celebrating his legacy. Field Marshal Cariappa’s story reminds everyone that dedication, honesty, and service can leave a lasting impact on an entire nation."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which district is associated with Field Marshal Cariappa?",
+              "options": [
+                "Kodagu",
+                "Mysuru",
+                "Belagavi",
+                "Shivamogga"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What was Cariappa’s role in the Indian Army?",
+              "options": [
+                "Pilot",
+                "Commander-in-Chief",
+                "Scientist",
+                "Teacher"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What quality is Cariappa most remembered for?",
+              "options": [
+                "Luxury",
+                "Discipline",
+                "Fear",
+                "Trade"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What did Cariappa help strengthen after independence?",
+              "options": [
+                "Indian Army",
+                "Railways",
+                "Ports",
+                "Factories"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What does Field Marshal Cariappa symbolize today?",
+              "options": [
+                "Patriotism and leadership",
+                "Foreign rule",
+                "Business and trade",
+                "Music and art"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ballari",
+      "name": "Ballari",
+      "heroes": [
+        {
+          "id": "queen_rani_abbakka",
+          "name": "Rani Abbakka",
+          "era": "16th Century",
+          "role": "Warrior Queen",
+
+          "summary": "Rani Abbakka was a fearless queen who fought bravely against the Portuguese and protected her kingdom from foreign control.",
+
+          "values": [
+            "Bravery",
+            "Patriotism",
+            "Leadership",
+            "Resistance"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Rani Abbakka",
+              "text": "Rani Abbakka was born into a royal family known for courage and strong leadership. From childhood, she learned horse riding, sword fighting, administration, and military strategy. Unlike many royal children who lived comfortably inside palaces, Abbakka trained herself to become a capable and fearless leader. She was deeply influenced by stories of bravery and justice told by elders and warriors around her. Her teachers admired her intelligence, determination, and quick decision-making abilities. Abbakka believed that rulers should always protect their people and never surrender to injustice or foreign control. As she grew older, she became respected for her confidence and leadership qualities. The people trusted her because she cared deeply about the welfare of her kingdom. Even before becoming queen, Abbakka showed signs of extraordinary courage and responsibility. Nobody imagined then that she would later become one of India’s earliest women rulers to strongly resist foreign colonial powers."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Threat from the Portuguese",
+              "text": "During the sixteenth century, Portuguese forces were expanding their control along the western coast of India. They wanted to dominate trade routes and capture important ports and kingdoms. Many rulers feared the Portuguese because of their powerful ships and weapons. However, Rani Abbakka refused to surrender her kingdom or freedom to foreign rule. She strongly believed that protecting her land and people was her greatest responsibility. Abbakka organized her army carefully and prepared defenses against enemy attacks. She encouraged unity among her soldiers and citizens during dangerous times. The queen also formed alliances with nearby rulers who opposed foreign control. Her bravery inspired confidence among the people because she stood fearlessly against powerful enemies. The Portuguese underestimated her strength and determination, believing they could easily defeat her kingdom. Instead, they soon realized that Rani Abbakka was a courageous and intelligent leader who would fight fiercely to protect her homeland."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Battles Against the Portuguese",
+              "text": "Rani Abbakka led several battles against the Portuguese and became famous for her fearless resistance. She used clever military strategies and knowledge of local geography to protect her kingdom effectively. Her soldiers fought with determination because they trusted her leadership completely. During attacks, Abbakka remained calm and encouraged her army to defend their homeland bravely. She also used small boats and surprise attacks to challenge powerful Portuguese naval forces. Even when facing enemies with advanced weapons, she never lost confidence or hope. The Portuguese were shocked by her courage and ability to organize strong resistance. Abbakka’s victories became famous across nearby regions and inspired many rulers to stand against colonial powers. Her determination showed that courage and leadership could challenge even the strongest enemies. Through these battles, Rani Abbakka earned respect as one of India’s earliest freedom fighters and a symbol of fearless resistance against foreign domination."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Protector of Her People",
+              "text": "Rani Abbakka cared deeply about the safety and welfare of her people. She believed that rulers must protect ordinary citizens during difficult times instead of thinking only about power or wealth. Under her leadership, the kingdom remained united and disciplined even during repeated enemy attacks. Abbakka encouraged courage, loyalty, and cooperation among soldiers and citizens alike. She listened carefully to the concerns of farmers, traders, and workers because she understood that strong communities were essential for a strong kingdom. Her leadership inspired confidence because she always stood beside her people during dangerous situations. Citizens admired her honesty, bravery, and dedication to justice. Abbakka’s life showed that leadership requires sacrifice, responsibility, and care for society. Even during war, she worked to maintain peace and stability within the kingdom. Her actions proved that true rulers protect both the dignity and safety of their people above everything else."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Rani Abbakka",
+              "text": "Today, Rani Abbakka is remembered as one of India’s bravest warrior queens and an early symbol of resistance against colonial rule. Historians admire her because she fearlessly challenged the Portuguese long before many other freedom movements began in India. Her courage continues to inspire women, students, soldiers, and leaders across the country. Statues, cultural programs, and historical stories honor her contributions and sacrifice. Children learn about Rani Abbakka as a symbol of patriotism, bravery, and leadership. Her life teaches future generations the importance of standing strong against injustice and protecting one’s homeland with determination. Even centuries later, people continue celebrating her fearless spirit and dedication to freedom. Her story reminds society that courage and unity can overcome powerful enemies. Rani Abbakka’s legacy remains an important part of Karnataka’s rich historical heritage and continues inspiring people to protect justice, dignity, and independence."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Who did Rani Abbakka fight against?",
+              "options": [
+                "British",
+                "Portuguese",
+                "Mughals",
+                "French"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What is Rani Abbakka remembered for?",
+              "options": [
+                "Building temples",
+                "Fearless resistance",
+                "Writing poetry",
+                "Trade"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What qualities did Abbakka show as a ruler?",
+              "options": [
+                "Fear and silence",
+                "Luxury and comfort",
+                "Bravery and leadership",
+                "Weakness and confusion"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "Why did the Portuguese attack kingdoms?",
+              "options": [
+                "To spread literature",
+                "To control trade and ports",
+                "To build schools",
+                "To help farmers"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What does Rani Abbakka symbolize today?",
+              "options": [
+                "Patriotism and resistance",
+                "Foreign control",
+                "Trade and business",
+                "Music and art"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "chikkaballapur",
+      "name": "Chikkaballapur",
+      "heroes": [
+        {
+          "id": "sir_m_visvesvaraya",
+          "name": "Sir M. Visvesvaraya",
+          "era": "1861–1962",
+          "role": "Engineer and Statesman",
+
+          "summary": "Sir M. Visvesvaraya was one of India’s greatest engineers and a visionary leader who contributed to modern infrastructure and development.",
+
+          "values": [
+            "Discipline",
+            "Innovation",
+            "Leadership",
+            "Hard Work"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life and Education",
+              "text": "Sir Mokshagundam Visvesvaraya was born in 1861 in Muddenahalli village of Chikkaballapur district in Karnataka. From childhood, he showed extraordinary discipline, intelligence, and dedication toward education. His family valued honesty, hard work, and knowledge, which strongly influenced his character. Even during difficult financial situations, Visvesvaraya remained focused on his studies and worked tirelessly to achieve success. Teachers admired his sharp thinking and determination. He believed that education was the key to improving society and solving problems. As he grew older, he developed a strong interest in mathematics, science, and engineering. He completed his studies with excellent performance and later joined engineering education, where his talent became widely recognized. Despite many challenges, he never lost confidence or discipline. The young boy from Muddenahalli eventually became one of India’s most respected engineers and visionaries whose ideas transformed the country’s infrastructure and development."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Engineering Excellence",
+              "text": "Sir M. Visvesvaraya became famous across India because of his brilliant engineering skills and innovative ideas. He worked on important irrigation systems, dams, water supply projects, and flood protection plans that improved the lives of millions of people. One of his greatest achievements was designing advanced flood protection systems and water management techniques that were far ahead of his time. His engineering solutions helped improve agriculture, trade, and public welfare in many regions. Visvesvaraya believed that science and technology should always be used for the progress of society. He worked with discipline and perfection, carefully planning every project with great attention to detail. His dedication inspired engineers and students across India. People admired him because he combined intelligence with honesty and public service. Through his work, Visvesvaraya showed that engineering could become a powerful tool for national development and improving the quality of life for ordinary citizens."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Building Modern Mysore",
+              "text": "As the Diwan of Mysore, Sir M. Visvesvaraya played a major role in modernizing the Mysore Kingdom. He focused on improving education, industries, transport, and infrastructure to create long-term development. Under his leadership, many factories, educational institutions, and public projects were established. He encouraged industrial growth because he believed economic progress was essential for the future of society. Visvesvaraya also promoted technical education so that young people could contribute to national development through science and engineering. His disciplined leadership and careful planning helped Mysore become one of the most progressive regions in India during that period. Citizens respected him because he worked honestly and placed public welfare above personal gain. He strongly believed that hard work, planning, and innovation could transform a nation. Through his vision and dedication, Visvesvaraya helped build the foundation for modern development and inspired future generations of leaders and engineers."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "A Symbol of Discipline",
+              "text": "Sir M. Visvesvaraya became widely respected not only for his engineering talent but also for his disciplined lifestyle and work ethic. He believed that punctuality, honesty, and dedication were essential qualities for success. Even at an advanced age, he maintained a strict daily routine and continued contributing ideas for national development. His simple lifestyle and humble attitude made him admired by people from all backgrounds. Visvesvaraya often encouraged young people to work hard, remain disciplined, and use knowledge to serve society. He believed that nations grow stronger when citizens focus on education, innovation, and responsibility. Many students and professionals considered him a role model because of his commitment to excellence and public service. His life showed that true greatness comes from consistent effort and dedication rather than fame or wealth. Through his actions, Visvesvaraya inspired generations to value discipline, learning, and service to the nation."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Sir M. Visvesvaraya",
+              "text": "Today, Sir M. Visvesvaraya is remembered as one of India’s greatest engineers and visionaries. His contributions to engineering, infrastructure, and public administration continue to inspire millions of people across the country. Educational institutions, roads, museums, and memorials honor his achievements and dedication to national development. Engineers and students study his work as an example of innovation, planning, and discipline. India celebrates Engineers’ Day every year on his birthday to recognize his remarkable contributions to science and society. Historians admire him because he used knowledge and technology to improve people’s lives and strengthen the nation. His life teaches future generations the importance of hard work, honesty, and continuous learning. Even today, people proudly remember how a disciplined boy from Chikkaballapur became one of the most respected engineers in Indian history. Sir M. Visvesvaraya’s legacy remains a powerful symbol of knowledge, innovation, and service to society."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which district is associated with Sir M. Visvesvaraya?",
+              "options": [
+                "Chikkaballapur",
+                "Mysuru",
+                "Kodagu",
+                "Belagavi"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What was Sir M. Visvesvaraya famous for?",
+              "options": [
+                "Poetry",
+                "Engineering",
+                "Music",
+                "Painting"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What qualities is Visvesvaraya remembered for?",
+              "options": [
+                "Fear and silence",
+                "Luxury and wealth",
+                "Discipline and innovation",
+                "Entertainment and games"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What is celebrated on Visvesvaraya’s birthday in India?",
+              "options": [
+                "Science Day",
+                "Teachers’ Day",
+                "Engineers’ Day",
+                "Independence Day"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What does Sir M. Visvesvaraya symbolize today?",
+              "options": [
+                "Knowledge and development",
+                "Foreign rule",
+                "War and destruction",
+                "Trade and entertainment"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "vijayanagara",
+      "name": "Vijayanagara",
+      "heroes": [
+        {
+          "id": "krishnadevaraya",
+          "name": "Krishnadevaraya",
+          "era": "1471–1529",
+          "role": "Emperor of Vijayanagara",
+
+          "summary": "Krishnadevaraya was one of the greatest emperors of the Vijayanagara Empire, known for his leadership, military strength, and support for art and literature.",
+
+          "values": [
+            "Leadership",
+            "Wisdom",
+            "Courage",
+            "Culture"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Krishnadevaraya",
+              "text": "Krishnadevaraya was born into the powerful Vijayanagara Empire during the fifteenth century. From childhood, he showed intelligence, bravery, and strong leadership qualities that impressed teachers and royal advisors. He was trained in warfare, administration, diplomacy, and literature so that he could become a capable ruler in the future. Unlike many princes who focused only on luxury, Krishnadevaraya worked hard to understand the needs of ordinary people and the responsibilities of governance. He learned horse riding, sword fighting, and military strategy from experienced warriors. At the same time, he developed deep respect for culture, poetry, and knowledge. His discipline and dedication made him admired by the people around him. As he grew older, he became known for his confidence and wise decision-making abilities. Nobody imagined then that the young prince would later become one of the greatest emperors in South Indian history and lead the Vijayanagara Empire to its golden age."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Rise to Power",
+              "text": "Krishnadevaraya became emperor of the Vijayanagara Empire during a challenging period when enemies threatened the stability of the kingdom. However, he quickly proved himself to be a courageous and intelligent ruler. He strengthened the army, improved administration, and united people across the empire. Krishnadevaraya personally led military campaigns and successfully defended his kingdom from powerful rivals. His bravery in battle earned respect from both allies and enemies. At the same time, he treated citizens fairly and worked hard to maintain peace and prosperity within the empire. Farmers, traders, scholars, and soldiers admired him because he focused on public welfare and development. Under his leadership, the Vijayanagara Empire became stronger economically and militarily. His ability to combine courage with wise governance made him one of the most respected rulers of his time. People across South India celebrated his victories and leadership during his reign."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Golden Age of Vijayanagara",
+              "text": "The reign of Krishnadevaraya is often called the golden age of the Vijayanagara Empire because of the great progress achieved during his rule. He encouraged trade, agriculture, architecture, education, and cultural development throughout the kingdom. Markets flourished, temples were built beautifully, and cities became centers of prosperity and learning. Krishnadevaraya believed that strong kingdoms should support both economic growth and cultural richness. He also encouraged irrigation projects and public works that improved the lives of ordinary people. Scholars, poets, artists, and musicians received great support from the emperor. His royal court became famous for intellectual discussions and literary achievements. The empire gained recognition for its wealth, organization, and cultural beauty under his leadership. Citizens respected Krishnadevaraya because he worked tirelessly for the progress of the kingdom. His reign demonstrated how wise leadership and balanced development could create a prosperous and successful empire."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Patron of Literature and Arts",
+              "text": "Krishnadevaraya deeply valued literature, poetry, and art. He himself was a talented scholar and wrote literary works in Telugu and Sanskrit. One of his most famous works was Amuktamalyada, which became highly respected in Indian literature. The emperor encouraged poets, scholars, and artists from different regions to contribute to cultural growth. His royal court included famous poets known as the Ashtadiggajas, who enriched literature and storytelling traditions. Krishnadevaraya believed that knowledge and creativity were essential for building a strong and respected society. Temples, sculptures, and architectural projects built during his reign reflected artistic excellence and cultural pride. People admired him not only as a warrior king but also as a protector of learning and tradition. His support for literature and arts helped preserve cultural heritage and inspired future generations of writers and artists across South India."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Krishnadevaraya",
+              "text": "Today, Krishnadevaraya is remembered as one of the greatest emperors in Indian history and a symbol of Karnataka’s cultural pride. Historians admire his leadership because he successfully combined military strength, wise governance, economic growth, and cultural development. The ruins of Hampi, once the capital of the Vijayanagara Empire, continue to remind people of the greatness achieved during his reign. Statues, books, and cultural programs honor his contributions and achievements. Students learn about him as an example of leadership, intelligence, and dedication to society. His life teaches future generations the importance of courage, wisdom, and support for culture and education. Even centuries later, people continue celebrating his legacy through literature, history, and heritage preservation. Krishnadevaraya’s reign remains one of the brightest periods in South Indian history and continues inspiring people to value leadership, knowledge, and cultural richness."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which empire was ruled by Krishnadevaraya?",
+              "options": [
+                "Mughal Empire",
+                "Vijayanagara Empire",
+                "Maurya Empire",
+                "British Empire"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What is Krishnadevaraya remembered for?",
+              "options": [
+                "Leadership and cultural development",
+                "Trade alone",
+                "Foreign rule",
+                "Naval warfare"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What is the famous literary work written by Krishnadevaraya?",
+              "options": [
+                "Ramayana",
+                "Amuktamalyada",
+                "Mahabharata",
+                "Vachanas"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What period is associated with Krishnadevaraya’s reign?",
+              "options": [
+                "Dark age",
+                "Golden age of Vijayanagara",
+                "Colonial period",
+                "Industrial period"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What does Krishnadevaraya symbolize today?",
+              "options": [
+                "Leadership and cultural pride",
+                "Foreign domination",
+                "Fear and silence",
+                "Trade and business"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bagalkote",
+      "name": "Bagalkote",
+      "heroes": [
+        {
+          "id": "basaveshwara",
+          "name": "Basaveshwara",
+          "era": "1105–1167",
+          "role": "Philosopher, Social Reformer and Poet",
+
+          "summary": "Basaveshwara was a great philosopher and social reformer who spread equality, compassion, and devotion through the Lingayat movement and Vachana literature.",
+
+          "values": [
+            "Equality",
+            "Wisdom",
+            "Compassion",
+            "Social Justice"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Basaveshwara",
+              "text": "Basaveshwara was born in the twelfth century in present-day Karnataka and later became one of India’s greatest social reformers and philosophers. From childhood, he showed deep interest in spirituality, morality, and human values. Unlike many people who blindly followed traditions, Basaveshwara believed that society should treat every person equally with dignity and respect. He carefully observed the problems faced by ordinary people, especially discrimination based on caste and social status. His intelligence, compassion, and wisdom impressed teachers and scholars around him. Basaveshwara strongly believed that devotion to God should be based on honesty, kindness, and hard work rather than rituals alone. As he grew older, he dedicated himself to spreading moral values and social harmony. He also developed great skill in literature and philosophy. Nobody imagined then that the young thinker would later become one of Karnataka’s most respected spiritual leaders and reformers whose teachings would inspire generations."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Voice for Equality",
+              "text": "Basaveshwara became famous for speaking strongly against social inequality and discrimination. During his time, society was divided by strict caste systems that treated people unfairly. Basaveshwara believed that every human being deserved equal respect regardless of caste, profession, or background. He encouraged people to live with honesty, compassion, and mutual respect. Through his teachings, he spread the message that hard work and good character were more important than social status. Many ordinary people found hope and dignity through his ideas because he treated everyone equally. Basaveshwara also encouraged women and marginalized communities to participate in spiritual and social discussions. His courage in challenging unfair traditions inspired many followers across Karnataka. Although some powerful groups opposed his reforms, he continued spreading his message fearlessly. His teachings helped create a movement that promoted equality, justice, and humanity during a time of deep social divisions."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Vachanas and Teachings",
+              "text": "Basaveshwara used simple and meaningful writings called Vachanas to spread his ideas among ordinary people. These Vachanas explained spiritual values, morality, honesty, and social equality in clear and understandable language. Unlike complex scholarly texts, his writings could be understood by common citizens, workers, farmers, and artisans. Basaveshwara believed that spirituality should guide people toward kindness, truth, and service to society. His Vachanas encouraged individuals to avoid greed, injustice, and discrimination. Through these teachings, he inspired people to focus on inner purity and ethical living rather than external rituals. Many scholars, poets, and followers joined him in spreading these messages across Karnataka. His literary contributions later became an important part of Kannada culture and spiritual history. The simplicity and wisdom of his Vachanas continue to inspire readers even today. Through literature and philosophy, Basaveshwara transformed the spiritual and social thinking of society."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Building a Better Society",
+              "text": "Basaveshwara believed that society could become stronger only through equality, compassion, and honest work. He encouraged people from different backgrounds to live together peacefully and respect one another. Under his leadership, communities gathered to discuss spiritual ideas, moral values, and social reforms openly. He strongly believed that both men and women should have equal opportunities to learn and contribute to society. Basaveshwara also respected workers and artisans, teaching that every profession carried dignity and importance. His ideas inspired people to focus on unity and justice instead of discrimination and division. Even during opposition and criticism, he continued working tirelessly for social harmony and reform. His leadership showed that true spirituality should improve the lives of people and create a compassionate society. Through his actions and teachings, Basaveshwara became a symbol of humanity, wisdom, and courage in Karnataka’s history."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Basaveshwara",
+              "text": "Today, Basaveshwara is remembered as one of Karnataka’s greatest philosophers, reformers, and spiritual leaders. His teachings continue to inspire millions of people across India and beyond. Statues, memorials, educational institutions, and cultural programs honor his contributions to equality and social justice. Students learn about his Vachanas and philosophy as important parts of Kannada literature and history. Historians admire him because he challenged discrimination and encouraged society to value compassion, honesty, and dignity for all people. His life teaches future generations that true leadership means serving humanity and protecting justice. Even centuries later, people continue celebrating his ideas through spiritual gatherings and cultural traditions. Basaveshwara’s message of equality and moral living remains relevant in modern society. His contributions to philosophy, literature, and social reform continue strengthening Karnataka’s cultural identity and inspiring people to build a fair and compassionate world."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "What is Basaveshwara mainly remembered for?",
+              "options": [
+                "Military victories",
+                "Social reform and equality",
+                "Architecture",
+                "Foreign trade"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What were Basaveshwara’s writings called?",
+              "options": [
+                "Puranas",
+                "Vachanas",
+                "Sutras",
+                "Charitas"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What did Basaveshwara oppose?",
+              "options": [
+                "Education",
+                "Agriculture",
+                "Social discrimination",
+                "Literature"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What values did Basaveshwara promote?",
+              "options": [
+                "Fear and silence",
+                "Luxury and power",
+                "Equality and compassion",
+                "War and destruction"
+              ],
+              "correctIndex": 2
+            },
+
+            {
+              "question": "What does Basaveshwara symbolize today?",
+              "options": [
+                "Social justice and wisdom",
+                "Foreign rule",
+                "Trade and politics",
+                "Military expansion"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "udupi",
+      "name": "Udupi",
+      "heroes": [
+        {
+          "id": "madhvacharya",
+          "name": "Madhvacharya",
+          "era": "1238–1317",
+          "role": "Philosopher and Spiritual Leader",
+
+          "summary": "Madhvacharya was a great philosopher and spiritual teacher who founded the Dvaita school of philosophy and spread devotion, wisdom, and moral living.",
+
+          "values": [
+            "Wisdom",
+            "Devotion",
+            "Knowledge",
+            "Discipline"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Madhvacharya",
+              "text": "Madhvacharya was born in the thirteenth century near Udupi in Karnataka. From childhood, he showed extraordinary intelligence, discipline, and spiritual interest. His parents noticed that he possessed deep understanding and curiosity about life, religion, and philosophy even at a young age. Unlike other children, Madhvacharya spent much of his time learning scriptures, asking thoughtful questions, and seeking knowledge from scholars and spiritual teachers. He was known for his sharp memory and ability to understand difficult ideas quickly. As he grew older, his dedication toward spirituality and learning became stronger. Madhvacharya believed that knowledge should guide people toward truth, morality, and devotion to God. Teachers and scholars admired his wisdom and confidence during discussions. The people around him recognized that he had the qualities of a great spiritual leader. Nobody imagined then that the young scholar from Udupi would later become one of India’s most respected philosophers and religious teachers."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Quest for Knowledge",
+              "text": "Madhvacharya dedicated his life to studying philosophy, spirituality, and sacred scriptures. He traveled to many regions across India to learn from scholars and participate in philosophical discussions. During these journeys, he carefully observed different beliefs and traditions while developing his own understanding of spirituality. Madhvacharya strongly believed that devotion to God should be based on wisdom, discipline, and truth. He spent years studying ancient scriptures such as the Vedas, Upanishads, and Bhagavad Gita in great detail. His deep knowledge and logical explanations impressed many scholars during debates and discussions. Madhvacharya wanted people to understand spirituality in a simple and meaningful way. He believed that knowledge should help individuals lead honest and moral lives. Through his teachings and travels, he inspired many followers to value learning, devotion, and disciplined living. His quest for knowledge eventually led him to establish a unique philosophical tradition that influenced generations."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Founder of Dvaita Philosophy",
+              "text": "Madhvacharya became famous for establishing the Dvaita school of philosophy, which explained the relationship between God and human beings. According to his teachings, God and the soul are separate entities, and devotion to God is the path toward spiritual growth and salvation. He explained complex philosophical ideas in ways that ordinary people could understand. Madhvacharya emphasized discipline, devotion, moral behavior, and respect for truth. His teachings inspired many followers because they combined spirituality with practical values for daily life. He also wrote important commentaries and books that explained sacred scriptures clearly and logically. Scholars admired his intelligence, reasoning, and ability to defend his ideas during debates. Through Dvaita philosophy, Madhvacharya created a strong spiritual tradition that continues to influence millions of people even today. His teachings encouraged people to live with honesty, humility, and devotion while seeking wisdom and inner peace."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Udupi Krishna Temple",
+              "text": "Madhvacharya is closely associated with the famous Udupi Krishna Temple, which later became an important center of spirituality and learning. According to tradition, he discovered an idol of Lord Krishna and established worship at Udupi with great devotion. He also organized temple administration and spiritual practices in a disciplined and systematic way. Under his guidance, Udupi became a major center for religious discussions, education, and devotional activities. Many students and spiritual seekers came to learn from him and understand his teachings. Madhvacharya believed that temples should not only be places of worship but also centers of learning, morality, and service to society. The Udupi Krishna Temple later became world famous because of its spiritual significance and cultural heritage. Even today, people visit the temple to remember Madhvacharya’s contributions and experience the traditions he established centuries ago."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Madhvacharya",
+              "text": "Today, Madhvacharya is remembered as one of India’s greatest philosophers and spiritual teachers. His Dvaita philosophy continues to guide millions of followers across generations. Scholars, students, and spiritual seekers study his teachings to understand devotion, wisdom, and moral living. The Udupi Krishna Temple remains an important symbol of his spiritual contributions and cultural legacy. Historians admire Madhvacharya because he combined deep knowledge with discipline, humility, and devotion. His writings and teachings strengthened spiritual traditions and influenced Indian philosophy significantly. Schools, cultural programs, and religious gatherings continue celebrating his contributions to knowledge and spirituality. His life teaches future generations the importance of discipline, learning, and devotion in achieving inner peace and wisdom. Even centuries later, Madhvacharya’s ideas continue inspiring people to live with honesty, faith, and dedication. His legacy remains a shining example of spiritual wisdom and Karnataka’s rich cultural heritage."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which district is associated with Madhvacharya?",
+              "options": [
+                "Udupi",
+                "Mysuru",
+                "Kodagu",
+                "Bagalkote"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What philosophy was founded by Madhvacharya?",
+              "options": [
+                "Advaita",
+                "Dvaita",
+                "Yoga",
+                "Nyaya"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "Which famous temple is linked with Madhvacharya?",
+              "options": [
+                "Golden Temple",
+                "Udupi Krishna Temple",
+                "Somnath Temple",
+                "Virupaksha Temple"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What values did Madhvacharya promote?",
+              "options": [
+                "Fear and silence",
+                "Wisdom and devotion",
+                "Luxury and wealth",
+                "War and conquest"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What does Madhvacharya symbolize today?",
+              "options": [
+                "Spiritual wisdom and knowledge",
+                "Foreign rule",
+                "Trade and business",
+                "Military leadership"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haveri",
+      "name": "Haveri",
+      "heroes": [
+        {
+          "id": "kanaka_dasa",
+          "name": "Kanaka Dasa",
+          "era": "1509–1609",
+          "role": "Saint, Poet and Philosopher",
+
+          "summary": "Kanaka Dasa was a great saint, poet, and philosopher who spread devotion, equality, and moral values through Kannada literature and music.",
+
+          "values": [
+            "Devotion",
+            "Equality",
+            "Wisdom",
+            "Compassion"
+          ],
+
+          "storyPages": [
+            {
+              "pageNumber": 1,
+              "pageTitle": "Early Life of Kanaka Dasa",
+              "text": "Kanaka Dasa was born in the sixteenth century in present-day Haveri district of Karnataka. From childhood, he showed intelligence, courage, and deep spiritual interest. He belonged to a warrior family and initially trained in leadership and military skills. However, as he grew older, he became more interested in philosophy, devotion, and the meaning of life. Kanaka Dasa carefully observed the struggles and inequalities present in society and believed that every human being deserved respect and dignity. He developed strong love for music, poetry, and spiritual learning. His wisdom and calm personality impressed people around him. Unlike many who focused only on power and status, Kanaka Dasa dedicated himself to spreading moral values and devotion. Through his life experiences, he realized that true greatness comes from humility, compassion, and service to humanity. Nobody imagined then that he would later become one of Karnataka’s greatest saints and literary legends."
+            },
+
+            {
+              "pageNumber": 2,
+              "pageTitle": "Journey Toward Spirituality",
+              "text": "Kanaka Dasa’s life changed deeply after spiritual experiences that inspired him to focus on devotion and moral living. He became a follower of the Bhakti movement, which emphasized devotion to God, equality, and inner purity rather than social status or rituals. Kanaka Dasa traveled across regions spreading messages of compassion, honesty, and unity among people. He believed that spirituality should guide society toward kindness and justice. Through songs, poems, and teachings, he encouraged individuals to overcome pride, greed, and discrimination. His simple language and emotional style made his ideas easy for ordinary people to understand. People from different communities admired him because he treated everyone equally and spoke fearlessly against social injustice. His spiritual journey transformed him into a respected teacher and philosopher whose words inspired hope and moral values among common citizens throughout Karnataka."
+            },
+
+            {
+              "pageNumber": 3,
+              "pageTitle": "Poetry and Literature",
+              "text": "Kanaka Dasa became famous for his devotional songs and literary works written in Kannada. Through poetry and music, he explained spiritual wisdom, morality, and human values in ways that ordinary people could easily understand. His writings encouraged devotion, humility, and equality among society. Kanaka Dasa believed that literature and music should inspire people toward truth and compassion rather than division and hatred. His songs were emotional, meaningful, and filled with deep philosophical ideas. Many of his works criticized social discrimination and encouraged unity among all communities. Villagers, scholars, and spiritual seekers admired his ability to explain difficult ideas through simple and beautiful language. His literary contributions became an important part of Kannada culture and Bhakti literature. Even today, his songs continue to be sung and respected across Karnataka because of their wisdom, devotion, and timeless moral teachings."
+            },
+
+            {
+              "pageNumber": 4,
+              "pageTitle": "Message of Equality",
+              "text": "Kanaka Dasa strongly believed that all people are equal regardless of caste, wealth, or social position. During his time, many communities faced discrimination and exclusion from religious and social activities. Kanaka Dasa courageously spoke against these unfair practices and encouraged society to respect every human being with dignity. One of the most famous stories associated with him is connected to the Udupi Krishna Temple, where his devotion was believed to move even the temple deity toward him. This story became a powerful symbol of equality and spiritual devotion. Kanaka Dasa taught that true devotion comes from purity of heart and good actions rather than social status. His message inspired many people to challenge discrimination and value humanity above divisions. Through his life and teachings, he became a symbol of social harmony, compassion, and moral courage in Karnataka’s cultural history."
+            },
+
+            {
+              "pageNumber": 5,
+              "pageTitle": "Legacy of Kanaka Dasa",
+              "text": "Today, Kanaka Dasa is remembered as one of Karnataka’s greatest saints, poets, and philosophers. His teachings continue inspiring people to live with devotion, honesty, compassion, and equality. Schools, cultural programs, music festivals, and literary events honor his contributions to Kannada literature and spiritual thought. Historians admire him because he used poetry and music to spread moral values and challenge social discrimination. His devotional songs remain popular across generations and continue strengthening Kannada cultural identity. Students learn about Kanaka Dasa as a symbol of wisdom, humility, and courage. His life teaches future generations that spirituality should unite people and encourage kindness and justice. Even centuries later, his writings and teachings continue influencing literature, music, and social thought in Karnataka. Kanaka Dasa’s legacy remains a shining example of devotion, equality, and cultural pride in Indian history."
+            }
+          ],
+
+          "quiz": [
+            {
+              "question": "Which district is associated with Kanaka Dasa?",
+              "options": [
+                "Haveri",
+                "Kodagu",
+                "Mysuru",
+                "Belagavi"
+              ],
+              "correctIndex": 0
+            },
+
+            {
+              "question": "What was Kanaka Dasa famous for?",
+              "options": [
+                "Engineering",
+                "Poetry and devotion",
+                "Military leadership",
+                "Architecture"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What movement was Kanaka Dasa associated with?",
+              "options": [
+                "Industrial movement",
+                "Bhakti movement",
+                "Freedom movement",
+                "Trade movement"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What values did Kanaka Dasa promote?",
+              "options": [
+                "Fear and silence",
+                "Equality and compassion",
+                "Luxury and power",
+                "War and conquest"
+              ],
+              "correctIndex": 1
+            },
+
+            {
+              "question": "What does Kanaka Dasa symbolize today?",
+              "options": [
+                "Devotion and social harmony",
+                "Foreign rule",
+                "Trade and business",
+                "Military expansion"
+              ],
+              "correctIndex": 0
+            }
+          ]
+        }
+      ]
+    }
+
+
+  ]
+}

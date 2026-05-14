@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@drawable/premium_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="28dp">
+
+        <!-- GLOW EFFECT -->
+
+        <View
+            android:layout_width="280dp"
+            android:layout_height="280dp"
+            android:layout_marginTop="-60dp"
+            android:background="@drawable/glow_circle_blue"/>
+
+        <!-- BADGE ICON -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🏆"
+            android:textSize="120sp"
+            android:layout_marginTop="-220dp"/>
+
+        <!-- TITLE -->
+
+        <TextView
+            android:id="@+id/badgeTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Hero Badge Unlocked!"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:layout_marginTop="18dp"/>
+
+        <!-- HERO CARD -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/premium_card"
+            android:padding="24dp"
+            android:layout_marginTop="34dp">
+
+            <TextView
+                android:id="@+id/badgeHero"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Kittur Chennamma"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="#FFFFFF"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/scoreText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Perfect Score: 5/5"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:textColor="#FBBF24"
+                android:gravity="center"
+                android:layout_marginTop="18dp"/>
+
+            <TextView
+                android:id="@+id/messageText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Congratulations"
+                android:textSize="17sp"
+                android:textColor="#CBD5E1"
+                android:gravity="center"
+                android:lineSpacingExtra="6dp"
+                android:layout_marginTop="22dp"/>
+
+        </LinearLayout>
+
+        <!-- EXPLORE BUTTON -->
+
+        <Button
+            android:id="@+id/exploreButton"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:text="Explore More Heroes"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#2563EB"
+            android:layout_marginTop="38dp"/>
+
+        <!-- PROGRESS BUTTON -->
+
+        <Button
+            android:id="@+id/progressButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Progress Dashboard"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#0F172A"
+            android:padding="16dp"
+            android:layout_marginTop="18dp"/>
+
+        <!-- HOME BUTTON -->
+
+        <Button
+            android:id="@+id/homeButton"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:text="Return Home"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#475569"
+            android:layout_marginTop="18dp"
+            android:layout_marginBottom="28dp"/>
+
+    </LinearLayout>
+
+</ScrollView>

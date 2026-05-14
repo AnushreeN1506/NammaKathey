@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="64dp"
+    android:height="64dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+
+    <!-- BASE PLATFORM -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M8,52 H56 V56 H8 Z"/>
+
+    <!-- MAIN STRUCTURE BODY -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M16,36 H48 V52 H16 Z"/>
+
+    <!-- MAIN DOME -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M32,10 C22,10 16,20 16,28 H48 C48,20 42,10 32,10 Z"/>
+
+    <!-- DOME SPIRE -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M30,4 H34 V12 H30 Z"/>
+
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M29,2 L32,6 L35,2 Z"/>
+
+    <!-- LEFT SMALL TOWER -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M14,40 H22 V52 H14 Z"/>
+
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M18,32 C14,32 12,36 12,40 H24 C24,36 22,32 18,32 Z"/>
+
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M17,28 H19 V34 H17 Z"/>
+
+    <!-- RIGHT SMALL TOWER -->
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M42,40 H50 V52 H42 Z"/>
+
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M46,32 C42,32 40,36 40,40 H52 C52,36 50,32 46,32 Z"/>
+
+    <path
+        android:fillColor="#F5C542"
+        android:pathData="M45,28 H47 V34 H45 Z"/>
+
+    <!-- DOOR ARCH -->
+    <path
+        android:fillColor="#1A1040"
+        android:pathData="M27,52 L27,42 C27,39 29,37 32,37 C35,37 37,39 37,42 L37,52 Z"/>
+
+    <!-- WINDOWS LEFT -->
+    <path
+        android:fillColor="#1A1040"
+        android:pathData="M19,43 H21 V47 H19 Z"/>
+
+    <!-- WINDOWS RIGHT -->
+    <path
+        android:fillColor="#1A1040"
+        android:pathData="M43,43 H45 V47 H43 Z"/>
+
+    <!-- STEPS -->
+    <path
+        android:fillColor="#D4A017"
+        android:pathData="M10,54 H54 V56 H10 Z"/>
+
+    <path
+        android:fillColor="#D4A017"
+        android:pathData="M6,56 H58 V60 H6 Z"/>
+
+</vector>

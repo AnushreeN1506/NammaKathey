@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/premium_background">
+
+    <!-- TOP GLOW -->
+
+    <View
+        android:layout_width="280dp"
+        android:layout_height="280dp"
+        android:layout_gravity="top|center_horizontal"
+        android:layout_marginTop="-80dp"
+        android:background="@drawable/glow_circle_blue"/>
+
+    <!-- CONTENT -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="28dp">
+
+        <!-- RESULT EMOJI -->
+
+        <TextView
+            android:id="@+id/resultEmoji"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="🏆"
+            android:textSize="110sp"/>
+
+        <!-- TITLE -->
+
+        <TextView
+            android:id="@+id/resultTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Challenge Complete"
+            android:textSize="34sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:gravity="center"
+            android:layout_marginTop="18dp"/>
+
+        <!-- CARD -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/premium_card"
+            android:padding="24dp"
+            android:layout_marginTop="34dp">
+
+            <TextView
+                android:id="@+id/resultScore"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Score: 5/5"
+                android:textSize="28sp"
+                android:textStyle="bold"
+                android:textColor="#FBBF24"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/resultMessage"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Message"
+                android:textSize="18sp"
+                android:textColor="#CBD5E1"
+                android:gravity="center"
+                android:lineSpacingExtra="6dp"
+                android:layout_marginTop="20dp"/>
+
+        </LinearLayout>
+
+        <!-- BUTTON -->
+
+        <Button
+            android:id="@+id/actionButton"
+            android:layout_width="match_parent"
+            android:layout_height="58dp"
+            android:text="Continue"
+            android:textAllCaps="false"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#2563EB"
+            android:layout_marginTop="40dp"/>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@drawable/premium_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="28dp">
+
+        <!-- TITLE -->
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Create Account"
+            android:textSize="40sp"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Start your heritage journey"
+            android:textSize="18sp"
+            android:textColor="#CBD5E1"
+            android:layout_marginTop="10dp"/>
+
+        <!-- CARD -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@drawable/premium_card"
+            android:padding="24dp"
+            android:layout_marginTop="40dp">
+
+            <!-- NAME -->
+
+            <EditText
+                android:id="@+id/nameEditText"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:hint="Full Name"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#94A3B8"
+                android:background="@drawable/option_card_default"
+                android:padding="16dp"/>
+
+            <!-- EMAIL -->
+
+            <EditText
+                android:id="@+id/emailEditText"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:hint="Email"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#94A3B8"
+                android:background="@drawable/option_card_default"
+                android:padding="16dp"
+                android:layout_marginTop="18dp"
+                android:inputType="textEmailAddress"/>
+
+            <!-- PASSWORD -->
+
+            <EditText
+                android:id="@+id/passwordEditText"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:hint="Password"
+                android:textColor="#FFFFFF"
+                android:textColorHint="#94A3B8"
+                android:background="@drawable/option_card_default"
+                android:padding="16dp"
+                android:layout_marginTop="18dp"
+                android:inputType="textPassword"/>
+
+            <!-- BUTTON -->
+
+            <Button
+                android:id="@+id/signupButton"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:text="Create Account"
+                android:textAllCaps="false"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="#FFFFFF"
+                android:backgroundTint="#2563EB"
+                android:layout_marginTop="28dp"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
