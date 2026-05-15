@@ -140,19 +140,32 @@ Traditional learning methods mainly depend on textbooks and scattered internet r
 
 ---
 
-# 📸 Screenshots
+## 👤 Create Account Screen
+![Create Account](screenshots/create_account.png)
+
+## 🔐 Sign In Screen
+![Sign In](screenshots/sign_in.png)
 
 ## 🏠 Home Screen
-![Home Screen](screenshots/home.png)
+![Home Screen](screenshots/home_screen.png)
 
-## 📖 Story Screen
-![Story Screen](screenshots/story.png)
+## 🏛 District Selection Screen
+![District Selection](screenshots/district_selection.png)
+
+## 📖 Story Section
+![Story Section](screenshots/story_section.png)
 
 ## 🧠 Quiz Section
-![Quiz Section](screenshots/quiz.png)
+![Quiz Section](screenshots/quiz_section.png)
 
-## 🏛 District Selection
-![District Selection](screenshots/district.png)
+## ✅ Quiz Result Screen
+![Quiz Result](screenshots/quiz_result.png)
+
+## 🏅 Badge Claim Screen
+![Badge Claim](screenshots/badge_claim.png)
+
+## 🎯 Achievements Screen
+![Achievements](screenshots/achievements_screen.png)
 
 ---
 
@@ -180,7 +193,6 @@ Namma-Kathey/
 # ⭐ Conclusion
 
 Namma-Kathey is a cultural storytelling Android application that combines education, technology, and regional heritage preservation into a modern digital experience. The project demonstrates Android development concepts, responsive UI/UX design, offline functionality, and interactive educational learning using Kotlin and Material Design principles.  
-
 The application helps users explore Karnataka’s regional heroes through engaging story cards, quizzes, and district-wise categorization while promoting cultural awareness and digital preservation of heritage.
 
 ---
